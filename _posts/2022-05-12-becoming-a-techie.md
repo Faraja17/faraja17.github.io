@@ -1,6 +1,7 @@
 ## Becoming a Techie
 
 ### It has been a whirlwind.
+
 My progress within just the last two months amazes me. I am blogging about it because, upon reflection, I am already starting to forget the small details of this amazing journey. The most recent chapter of my story begins at the end of February, when I formally decided to devote my weekends to learning to code. Prior to that, I had made a commitment to follow this path, but was too exhausted to follow through after working full time all week and then part time most weekends. So, I cleared my schedule and closed my availability to the part-time job. I started watching lots of developer testimonials on YouTube to find out where to begin. Fast forward to today—I've completed seven courses, designed two websites, served as a volunteer teaching assistant, set an appointment to meet with a mentor, and I NOW CODE EVERY DAY!
 
 ## Table of contents
