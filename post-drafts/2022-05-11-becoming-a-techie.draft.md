@@ -5,7 +5,7 @@ My progress within just the last two months amazes me. I am blogging about it be
 
 ## Table of contents
 
-- [Overview: It's a Whirwind.](#it-has-been-a-whirlwind)
+- [Overview: It Has Been a Whirlwind.](#it-has-been-a-whirlwind)
 - [First Steps](#first-steps)
 - [Networking and Continued Growth](#networking-and-continued-growth)
 - [Blazing a Trail](#blazing-a-trail)
