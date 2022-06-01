@@ -24,7 +24,7 @@ First, a fun fact about me: I have served as a seasonal U.S. Park Ranger. Duing 
 I have also been inspired by Edison’s work as an inventor, and his approaches to organizing over eighty years of ideas throughout his lifetime.  He jotted notes and drew sketches on loose pieces of paper, in pocket notebooks, and beginning in 1878, in formalized laboratory books—altogether, over five million pages worth of various notes! [You can read more about Edison and his papers here.](https://edison.rutgers.edu/about/thomas-edison-and-his-papers) 
 
 
-Back at the lab, within a grand library designed by the same architect who had built Glenmont, resides Edison’s office desk on display. What is most amazing to me, about both the house and the lab, is the fact that *everything* within is original. Edison’s desk was locked after hiss death in 1931. Since the desk was reopened in 1947, very little has changed. A particular cubby hole, labeled “New Things” continues to captivate me along with numerous park visitors. It was where Edison kept his random scraps of paper, filled with ideas for new inventions.
+Back at the lab, within a grand library designed by the same architect who had built Glenmont, resides Edison’s office desk on display. What is most amazing to me, about both the house and the lab, is the fact that *everything* within is original. Edison’s desk was locked after hiss death in 1931. Since the desk was reopened in 1947, very little has changed. A particular cubby hole, labeled “New Things” continues to captivate me along with numerous other park visitors. It was where Edison kept his random scraps of paper, filled with ideas for new inventions.
 
 
 ### My new ideas app design
