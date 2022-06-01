@@ -67,10 +67,16 @@ Click images for fullscreen view.
 
 In order to install the completed app, I navigated to the form through Google Drive on my (Android) phone and copied the URL. After opening the form through my phone’s Chrome web browser, I tapped the three dots on the upper right to access the browser menu, and tapped “Add to Home Screen”. This creates a labeled app-like link using the web page's favicon. Finally, I placed the app in its desired location on my home screen. I later decided to add a link to the response Google Sheet alongside it so that I can easily view my ideas as well. Now that I am becoming more comfortable writing in JavaScript, I am excited in the future to create my own [custom functions in Google Sheets using the Google Script Editor (YouTube video)](https://www.youtube.com/watch?v=DRmWYChhhLk). 
 
-[![screenshot of apps on phone](https://github.com/Faraja17/faraja17.github.io/blob/main/image%20of%20apps.jpg?raw=true)](https://github.com/Faraja17/faraja17.github.io/blob/main/image%20of%20apps.jpg?raw=true)
+| <b></b> | 
+|:--:|
+| [![screenshot of apps on phone](https://github.com/Faraja17/faraja17.github.io/blob/main/image%20of%20apps.jpg?raw=true)](https://github.com/Faraja17/faraja17.github.io/blob/main/image%20of%20apps.jpg?raw=true) |
+| <b>Screenshot of apps on phone </b> |
 
 ### Closing
 
 At the Thomas Edison National Historical Park, some of the rangers love to point out how the modern cellular phone represents Edison’s work in light, sound, video, and storage batteries.  I’m sure he would have marveled at all of its capabilities, and I like to imagine that he would have appreciated my little *New Ideas* app, too!
 
-[![pic of me in my green and grey with niece and nephew at TENHP](https://github.com/Faraja17/faraja17.github.io/blob/main/Screen%20Shot%202022-06-01%20at%202.10.52%20AM.png?raw=true)](https://github.com/Faraja17/faraja17.github.io/blob/main/Screen%20Shot%202022-06-01%20at%202.10.52%20AM.png?raw=true)
+| <b></b> | 
+|:--:|
+| [![Pic of me in my green and grey with niece and nephew at TENHP](https://github.com/Faraja17/faraja17.github.io/blob/main/Screen%20Shot%202022-06-01%20at%202.10.52%20AM.png?raw=true)](https://github.com/Faraja17/faraja17.github.io/blob/main/Screen%20Shot%202022-06-01%20at%202.10.52%20AM.png?raw=true) |
+| <b>Pic of me in my green and grey with niece and nephew at TENHP </b> |
