@@ -45,7 +45,7 @@ Even though I was using the same form to collect both project and blog ideas, I 
 ```
 
 
-Now, when I enter project and blog idea data using the Google Form, it is all automatically placed on the original *Form Responses* tab along with a time and date stamp. Then the project name and the description data are called by the formula and organized into two columns on the *Personal Project Ideas* tab.  The blog data is called and organized, in the same way, to the *blog ideas* tab.
+Now, when I enter project and blog idea data using the Google Form, it is all automatically placed on the original *Form Responses* tab along with a time and date stamp. Then the project name and the description data are called by the formula and organized into two columns on the *Personal Project Ideas* tab.  The blog data is called and organized, in the same way, to the *Blog Ideas* tab.
 
 
 ### Installing the app and future projects 
