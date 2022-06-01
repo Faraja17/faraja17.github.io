@@ -12,7 +12,7 @@ Frequently, an idea for a new system, invention, coding project, or blog post wi
 - [Overview: Keeping Organized with a Custom Google Sheets App.](#keeping-organized-with-a-custom-google-sheets-app)
 - [Park Ranger to Techie](#park-ranger-to-techie)
 - [My New Ideas App Design](#my-new-ideas-app-design)
-  - [Screenshots](screenshots)
+  - [Screenshots](#screenshots)
 - [Installing the App and Future Projects](#installing-the-app-and-future-projects)
 - [Closing](#closing)
 
