@@ -73,3 +73,4 @@ In order to install the completed app, I navigated to the form through Google Dr
 
 At the Thomas Edison National Historical Park, some of the rangers love to point out how the modern cellular phone represents Edison’s work in light, sound, video, and storage batteries.  I’m sure he would have marveled at all of its capabilities, and I like to imagine that he would have appreciated my little *New Ideas* app, too!
 
+[![pic of me in my green and grey with niece and nephew at TENHP](https://github.com/Faraja17/faraja17.github.io/blob/main/Screen%20Shot%202022-06-01%20at%202.10.52%20AM.png?raw=true)](https://github.com/Faraja17/faraja17.github.io/blob/main/Screen%20Shot%202022-06-01%20at%202.10.52%20AM.png?raw=true)
