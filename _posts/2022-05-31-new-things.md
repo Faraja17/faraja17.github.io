@@ -66,9 +66,7 @@ Click images for fullscreen view.
 
 In order to install the completed app, I navigated to the form through Google Drive on my (Android) phone, copied the URL. After opening the form through my phone’s Chrome web browser, I tapped the three dots on the upper right to access the browser menu, and tapped “Add to Home Screen”. This creates a labeled app-like link using the web page's favicon. Finally, I placed the app in its desired location on my home screen. I later decided to add a link to the response Google Sheet alongside it so that I can easily view my ideas as well. Now that I am becoming more comfortable writing in JavaScript, I am excited in the future to create my own [custom functions in Google Sheets using the Google Script Editor](https://www.youtube.com/watch?v=DRmWYChhhLk). 
 
-[![Screenshot of apps on phone](![image](https://user-images.githubusercontent.com/104348636/171329123-84340177-220f-4e8d-b0aa-2b0ebe5e43bb.png)
-)](![image](https://user-images.githubusercontent.com/104348636/171329142-85de7a60-7029-4e1b-bea6-0b5e3265bc86.png)
-)
+[![screenshot of apps on phone](https://github.com/Faraja17/faraja17.github.io/blob/main/image%20of%20apps.jpg?raw=true)](https://github.com/Faraja17/faraja17.github.io/blob/main/image%20of%20apps.jpg?raw=true)
 
 ### Closing
 
