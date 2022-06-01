@@ -47,12 +47,28 @@ Even though I was using the same form to collect both project and blog ideas, I 
 
 Now, when I enter project and blog idea data using the Google Form, it is all automatically placed on the original *Form Responses* tab along with a time and date stamp. Then the project name and the description data are called by the formula and organized into two columns on the *Personal Project Ideas* tab.  The blog data is called and organized, in the same way, to the *Blog Ideas* tab.
 
+#### Screenshots
+Click images for fullscreen view.
+
+| <b> </b>                                              |                                                                 |
+|:---------------------------------------------------------------:|:---------------------------------------------------------------:|
+|Form                                                             |Original Tab                                                                 |
+| [![screenshot of Google Form](https://github.com/Faraja17/faraja17.github.io/blob/main/form.png?raw=true)](https://github.com/Faraja17/faraja17.github.io/blob/main/form.png?raw=true) | [![Screenshot of original Google Sheet Tab](https://github.com/Faraja17/faraja17.github.io/blob/main/original%20tab.png?raw=true)](https://github.com/Faraja17/faraja17.github.io/blob/main/original%20tab.png?raw=true) |
+
+
+| <b> </b>                                             |                                                                 |
+|:---------------------------------------------------------------:|:---------------------------------------------------------------:|
+|Projects Tab                                                     |Blog Tab                                                                 |
+| [![Screenshot of project ideas tab](https://github.com/Faraja17/faraja17.github.io/blob/main/projects%20tab.png?raw=true)](https://github.com/Faraja17/faraja17.github.io/blob/main/projects%20tab.png?raw=true) | [![screenshot of blog ideas tab](https://github.com/Faraja17/faraja17.github.io/blob/main/blog%20tab.png?raw=true)](https://github.com/Faraja17/faraja17.github.io/blob/main/blog%20tab.png?raw=true) |
+
 
 ### Installing the app and future projects 
 
 In order to install the completed app, I navigated to the form through Google Drive on my (Android) phone, copied the URL. After opening the form through my phone’s Chrome web browser, I tapped the three dots on the upper right to access the browser menu, and tapped “Add to Home Screen”. This creates a labeled app-like link using the web page's favicon. Finally, I placed the app in its desired location on my home screen. I later decided to add a link to the response Google Sheet alongside it so that I can easily view my ideas as well. Now that I am becoming more comfortable writing in JavaScript, I am excited in the future to create my own [custom functions in Google Sheets using the Google Script Editor](https://www.youtube.com/watch?v=DRmWYChhhLk). 
 
-
+[![Screenshot of apps on phone](![image](https://user-images.githubusercontent.com/104348636/171329123-84340177-220f-4e8d-b0aa-2b0ebe5e43bb.png)
+)](![image](https://user-images.githubusercontent.com/104348636/171329142-85de7a60-7029-4e1b-bea6-0b5e3265bc86.png)
+)
 
 ### Closing
 
